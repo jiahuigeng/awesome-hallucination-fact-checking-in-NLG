@@ -1,1 +1,1 @@
-# awesome-hallucination-fact-checking--in-NLP
+# awesome-hallucination-fact-checking--in-NLG
