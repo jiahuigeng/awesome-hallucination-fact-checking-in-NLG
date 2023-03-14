@@ -8,7 +8,6 @@ This repository contains a collection of resources and papers on ***Hallucinatio
 ## Contents
 - [Resources](#resources)
   - [Introductory Posts](#introductory-posts)
-  - [Introductory Papers](#introductory-papers)
   - [Introductory Videos](#introductory-videos)
   - [Introductory Lectures](#introductory-lectures)
   - [Tutorial and Jupyter Notebook](#tutorial-and-jupyter-notebook)
