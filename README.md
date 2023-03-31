@@ -36,12 +36,20 @@ This repository contains a collection of resources and papers on ***Hallucinatio
 *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom*
 15 Feb 2023 [[Paper](https://arxiv.org/abs/2302.07842)]
 
+**Automated fact-checking for assisting human fact-checkers**
+*Preslav Nakov, David Corney, Maram Hasanain, Firoj Alam, Tamer Elsayed, Alberto Barrón-Cedeño, Paolo Papotti, Shaden Shaar, Giovanni Da San Martino*
+13 Mar 2021 [[Paper](https://arxiv.org/abs/2103.07769)]
+
+**Survey of hallucination in natural language generation**
+
 ## Dataset
 
 **TruthfulQA: Measuring How Models Mimic Human Falsehoods**
 *Stephanie C. Lin, Jacob Hilton, Owain Evans*
 
 ## Large Language Model for Fact-checking
+
+**Language Models as Fact Checkers?**
 **ReAct: Synergizing Reasoning and Acting in Language Models**
 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*
 10 Mar 2023 [[Paper](https://arxiv.org/abs/2210.03629)]
@@ -53,6 +61,13 @@ This repository contains a collection of resources and papers on ***Hallucinatio
 **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**
 *Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao*
 8 Mar 2023  [[Paper](https://arxiv.org/abs/2302.12813)]
+
+**Faithful Reasoning Using Large Language Models**
+30 Aug 2022 [[Paper](https://arxiv.org/abs/2208.14271)]
+
+**Zero-shot fact verification by claim generation**
+*Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Yang Wang*
+31 May 2021 [[Paper](https://arxiv.org/abs/2105.14682)]
 
 ## Fact-checking for Large Language Models
 
@@ -68,11 +83,19 @@ This repository contains a collection of resources and papers on ***Hallucinatio
 *Noah Shinn, Beck Labash, Ashwin Gopinath*
 20 Mar 2023 [[Paper](https://arxiv.org/abs/2303.11366)]
 
+**Editing factual knowledge in language models**
+*Nicola De Cao, Wilker Aziz, Ivan Titov*
+
+
 ## Fact-checking
 
 **Toward Automated Factchecking: Developing an Annotation Schema and Benchmark for Consistent Automated Claim Detection**
 *Lev Konstantinovskiy, Oliver Price, Mevan Babakar, Arkaitz Zubiaga*
 17 Aug 2020 [[Paper](https://arxiv.org/abs/1809.08193)]
+
+**Fully automated fact checking using external sources**
+*Nicola De Cao, Wilker Aziz, Ivan Titov*
+8 Sep 2021  [[Paper](https://arxiv.org/abs/2104.08164)]
 
 
 ## Generation
