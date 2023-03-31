@@ -118,13 +118,18 @@ This repository contains a collection of resources and papers on ***Hallucinatio
 
 
 **Webgpt: Browser-assisted question-answering with human feedback**
-
+*Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*
+1 Jun 2022 [[Paper](https://arxiv.org/abs/2112.09332)] \
 **MedGPT: Medical concept prediction from clinical narratives**
 *Zeljko Kraljevic, Anthony Shek, Daniel Bean, Rebecca Bendayan, James Teo, Richard Dobson*
 
 **BloombergGPT: A Large Language Model for Finance**
 *Shijie Wu, Ozan Irsoy, Steven Lu, Vadim Dabravolski, Mark Dredze, Sebastian Gehrmann, Prabhanjan Kambadur, David Rosenberg, Gideon Mann*
+30 Mar 2023 [[Paper](https://arxiv.org/abs/2303.17564)]
 
+**ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge**
+*Li Yunxiang, Li Zihan, Zhang Kai, Dan Ruilong, Zhang You*
+24 Mar 2023  [[Paper](https://arxiv.org/abs/2303.14070)]
 
 **There Is No Standard Answer: Knowledge-Grounded Dialogue Generation with Adversarial Activated Multi-Reference Learning**
 
