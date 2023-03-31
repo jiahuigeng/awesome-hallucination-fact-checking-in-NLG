@@ -86,7 +86,21 @@ This repository contains a collection of resources and papers on ***Hallucinatio
 **Editing factual knowledge in language models**
 *Nicola De Cao, Wilker Aziz, Ivan Titov*
 
+**P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts**
+*Benjamin Newman, Prafulla Kumar Choubey, Nazneen Rajani*
+ICLR2022 [[Paper](https://openreview.net/pdf?id=DhzIU48OcZh)]
 
+**Locating and Editing Factual Associations in GPT**
+*Kevin Meng, David Bau, Alex J Andonian, Yonatan Belinkov*
+NeurIPS2022 [[Paper](https://openreview.net/forum?id=-h6WAS6eE4)]
+
+**Understanding Finetuning for Factual Knowledge Extraction from Language Models**
+*Mehran Kazemi, Sid Mittal, Deepak Ramachandran*
+26 Jan 2023 [[Paper](Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li)]
+
+**Calibrating Factual Knowledge in Pretrained Language Models**
+*Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li*
+EMNLP 2022 [[Paper](https://aclanthology.org/2022.findings-emnlp.438/)]
 ## Fact-checking
 
 **Toward Automated Factchecking: Developing an Annotation Schema and Benchmark for Consistent Automated Claim Detection**
