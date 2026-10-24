@@ -97,6 +97,14 @@ OpenAI 2021 [[Paper](https://arxiv.org/abs/2107.03374)]
 
 ### External Knowledge Base
 
+**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** \
+*Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong* \
+NeurIPS 2025 [[Paper](https://arxiv.org/abs/2502.15543)]
+
+**SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** \
+*Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun* \
+Jun 2026 [[Paper](https://arxiv.org/abs/2606.27786)]
+
 
 
 ## Causal Analysis
